@@ -23,10 +23,9 @@ Bachelor of Science in Information Technology
  Watching movies
  Learning new technologies
 
-## 🖼 Portfolio
+ 🖼 Portfolio
+(<img width="288" height="288" alt="RAFAEL (2)" src="https://github.com/user-attachments/assets/68b772c4-0bf8-4e1d-a576-6bc89e2d5ef7" />
 
-![My Photo](<img width="288" height="288" alt="RAFAEL (2)" src="https://github.com/user-attachments/assets/68b772c4-0bf8-4e1d-a576-6bc89e2d5ef7" />
-<img width="288" height="288" alt="RAFAEL (2)" src="https://github.com/user-attachments/assets/6733088e-7489-4371-aedd-81c76ee2cb71" />
 )
 
 ## 📞 Contact & Links
