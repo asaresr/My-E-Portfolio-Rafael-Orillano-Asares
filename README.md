@@ -1,8 +1,8 @@
-# My-E-Portfolio-Rafael-Orillano-Asares
-Hello There! 
 
+Hello There! 
 Welcome to my E-Portfolio
-# Hi, I'm [Rafael Orillano Asares]
+
+# Hi, I'm Rafael Orillano Asares
 
 ## About Me
 Short introduction about yourself.
